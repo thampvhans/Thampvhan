@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "DefaultBanner",
       "main_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "initialize_sdk":"10f5cfc05",
+      "initialize_sdk":"1106ae30d",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.tampvhan.keyboardbtsjhopetheme",
       "high_paying_keyword_1": "Forex",
