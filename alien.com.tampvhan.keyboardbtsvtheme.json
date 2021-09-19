@@ -2,8 +2,8 @@
 
 "Ads": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"IRON",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "DefaultBanner",
       "main_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"",
