@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
+      "select_main_ads": "MOPUB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_banner": "352f6a81906045fba18bd20eb11ebe86",
+      "main_ads_intertitial":"a61fa78ef75e4a9aa4834f9014824670",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "initialize_sdk":"110aa0955",
+      "initialize_sdk":"352f6a81906045fba18bd20eb11ebe86",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"https://play.google.com/store/apps/details?id=com.tampvhan.keyboardbtssugatheme",
       "high_paying_keyword_1": "Forex",
